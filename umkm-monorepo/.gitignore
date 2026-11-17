@@ -1,0 +1,7 @@
+vendor/
+.env
+writable/
+build/
+.dart_tool/
+.idea/
+*.log

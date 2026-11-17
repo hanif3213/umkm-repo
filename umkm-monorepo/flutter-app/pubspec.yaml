@@ -1,0 +1,21 @@
+name: umkm_app
+description: Klien Flutter untuk REST API UMKM (CI4) - praktik Topic 10.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.4.0
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
